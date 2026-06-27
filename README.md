@@ -1,3 +1,8 @@
+<p align="center">
+<img width="1774" height="887" alt="image" src="https://github.com/user-attachments/assets/c22ae59b-b891-4ef7-931d-d574b88079bc" width="100%" alt="Iqshant Bawa Banner" />
+</p>
+
+
 # Hi there 👋, I'm Iqshant Bawa
 
 ### Computer Science Student | Aspiring Software Engineer
@@ -43,7 +48,6 @@ Currently, I'm focused on strengthening my skills in **Data Structures & Algorit
 * GitHub
 * Linux
 * VS Code
-* Postman
 
 ---
 
@@ -61,7 +65,6 @@ Currently, I'm focused on strengthening my skills in **Data Structures & Algorit
 
 * LinkedIn: https://www.linkedin.com/in/iqshantbawa
 * GitHub: https://github.com/iqshant
+* Email: iqshantbawa@gmail.com
 
 ---
-
-> *"Consistency beats intensity. A small improvement every day compounds into remarkable progress."*
